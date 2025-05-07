@@ -1,7 +1,7 @@
 # Guacamole
 ## Ingredients
-*avocado
-*lime
-*salt
+* avocado
+* lime
+* salt
 ## Instructions
-*add some more information on Github
+* add some more information on Github
